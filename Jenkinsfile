@@ -24,6 +24,6 @@ stage ('Archive Artifacts'){
 input message: "QA Team Approval for Production Deployment?"
 
 stage ('Production Deployment'){
-	sh 'cp target/*.war /home/jenkins/webapps'
+	sh 'cp target/*.war /opt/tomcat/apache-tomcat/webapps/'
 }
 }
