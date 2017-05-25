@@ -14,7 +14,7 @@ stage ('Sonar Analysis'){
 }
 	
 stage('Code Coverage ') {
-    sh "curl -o coverage.json 'http://52.88.29.244:9000/sonar/api/measures/component?componentKey=com.java.example:java-example&metricKeys=coverage';sonarCoverage=`jq '.component.measures[].value' coverage.json`;echo 'Code Coverage is \${sonarCoverage}' "
+    sh "curl -o coverage.json 'http://172.31.33.85:9000/sonar/api/measures/component?componentKey=com.java.example:java-example&metricKeys=coverage';sonarCoverage=`jq '.component.measures[].value' coverage.json`;echo 'Code Coverage is \${sonarCoverage}' "
    }
 
 stage ('Archive Artifacts'){
