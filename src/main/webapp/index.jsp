@@ -6,7 +6,7 @@
 </head>
 <body>
 
-<p>Welcome to CI/CD DevOps Demo for BE Assocites.</p>
+<p>Welcome to CI/CD DevOps Demo for TechM PEOPLE.</p>
 
 
 </body>
