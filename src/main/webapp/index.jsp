@@ -6,7 +6,7 @@
 </head>
 <body>
 
-<p>Welcome to CI/CD DevOps Demo for Naseer bhai .</p>
+<p>These is CI/CD Demo .</p>
 
 
 </body>
