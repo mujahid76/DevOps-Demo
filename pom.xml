@@ -72,4 +72,25 @@
       </dependencies>
     </profile>
   </profiles>
+
+<distributionManagement>
+    <repository>
+        <id>central</id>
+        <name>ip-172-31-13-98-releases</name>
+        <url>http://35.166.188.159:8081/artifactory/local</url>
+    </repository>
+    <snapshotRepository>
+        <id>snapshots</id>
+        <name>ip-172-31-13-98-snapshots</name>
+        <url>http://35.166.188.159:8081/artifactory/local</url>
+    </snapshotRepository>
+</distributionManagement>
+
+
+
+
+
+
+
+
 </project>
