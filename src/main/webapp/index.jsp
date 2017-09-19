@@ -6,7 +6,7 @@
 </head>
 <body>
 
-<p>These is CI/CD Demo .</p>
+<p>These is CI/CD Demo for all of us .</p>
 
 
 </body>
