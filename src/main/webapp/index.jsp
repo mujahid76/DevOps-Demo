@@ -6,7 +6,7 @@
 </head>
 <body>
 
-<p>Jenkins CI/CD Demo  for Techm team nased on hyderabad</p>
+<p>Jenkins CI/CD devops session </p>
 
 
 </body>
