@@ -6,7 +6,7 @@
 </head>
 <body>
 
-<p>Jenkins CI/CD devops session </p>
+<p> devops session for D3OP team</p>
 
 
 </body>
