@@ -1,0 +1,7 @@
+DEPENDENCIES
+  artifactory
+    path: .
+    metadata: true
+
+GRAPH
+  artifactory (0.1.0)
