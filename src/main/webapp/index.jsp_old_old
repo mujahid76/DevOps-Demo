@@ -6,7 +6,7 @@
 </head>
 <body>
 
-<p> devops session for D3OP team</p>
+<p> Welcome to M18</p>
 
 
 </body>
